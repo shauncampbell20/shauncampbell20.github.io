@@ -54,10 +54,9 @@ hr {
   margin: 20px 0;
 }
 
-/* Red dashed HR style */
 hr.sm {
   border-top: 2px solid rgb(186, 186, 186);
-  width: 90%; 
+  width: 100%; 
   margin: 20px auto; 
 }
 
@@ -70,4 +69,5 @@ hr.thick-blue {
 
 footer-text {
     color:rgb(186, 186, 186)
+
 }
